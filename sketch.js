@@ -70,7 +70,7 @@ function setup() {
 
 function draw() {
   //trex.debug = true;
-  background("lemon yellow");
+  background("blue");
   text("Score: "+ score, 500,50);
   
   if (gameState===PLAY){
